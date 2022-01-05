@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.focusing-time{
+    border-left: 4px solid #FF5959;
+    padding-left: 10px;
+    font-size: larger;
+    margin-top: 120px;
+    
+}
+.orange-color{
+    color: 
+    #FFAD5A;
+}
+.link-button{
+    
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+    
+    
+}
+.link-container{
+    margin-top: 40px;
+    margin-bottom: 45px;
+}
+.flexible-container{
+    display: flex;
+    justify-items: center;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 40%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 75%;
+}
+.mission-2022{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+.mission-items{
+    width: 25%;
+    height: 376px;
+    border: 1px solid white;
+    margin-right: 20px;
+
+
+
+}
+#first-mission-item{
+    background-color: #4F9DA61A;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-left: 110px;
+}
+#second-mission-item{
+    background-color: #FF59591A;
+    border-radius: 20px;
+    padding-left: 20px;
+
+}
+#third-mission-item{
+    background-color: #FFF4D6;
+    border-radius: 20px;
+    padding-left: 20px;
+
+}
+.coding-area-half-width{
+    width: 45%;
+    margin-left: ;
+    
+}
+.coding-area-half-width img{
+    margin-left: 17%;
+}
+.bg-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 227px 227px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.project-area-half-width{
+    width: 45%;
+    margin-left: 7%;
+}
