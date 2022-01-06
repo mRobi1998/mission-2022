@@ -38,7 +38,7 @@ body{
 .half-width img{
     width: 75%;
 }
-.mission-2022{
+.middile-header{
     text-align: center;
     font-size: 48px;
     font-weight: 700;
@@ -87,4 +87,30 @@ body{
 .project-area-half-width{
     width: 45%;
     margin-left: 7%;
+}
+.app-name{
+    color: red;
+    font-size: xx-large;
+    font-weight: 900;
+
+}
+.footer-part{
+    background-color: black;
+    height: 177px;
+    width: auto;
+}
+.footer-mission{
+    color: white;
+    font-family: lobster;
+    text-align: center;
+    padding-top: 25px;
+}
+.copy-right{
+    text-align: center;
+    color: #D9DBE1;
+    ;
+}
+.footer-2022-color{
+    color: 
+    #FF5959;
 }
